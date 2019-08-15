@@ -1,0 +1,16 @@
+.talk{
+    font-size: 26px;
+}
+h2.content{
+    color:darkgray;
+}
+h2.contentResult{
+    color: crimson;
+}
+.jumbotron{
+    padding: 7px;
+}
+img{
+    width: 100px;
+    height: 100px;
+}
